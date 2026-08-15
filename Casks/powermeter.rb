@@ -1,6 +1,6 @@
 cask "powermeter" do
-  version "1.5"
-  sha256 "5fa02a77ea51a8f58424f9bc2128dc0960800e953863243a04e4a2835e48706e"
+  version "1.5.1"
+  sha256 "648f1fec36e462499c654a0b63dc51ec7e447e88ba286a6ddf749aa7139c658f"
 
   url "https://github.com/GGAH1911/PowerMeter/releases/download/v#{version}/PowerMeter-v#{version}-arm64.zip",
       verified: "github.com/GGAH1911/PowerMeter/"
